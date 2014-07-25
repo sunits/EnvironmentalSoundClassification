@@ -1,0 +1,16 @@
+<BeginHMM>
+ <NumStates> 3 <VecSize> 16 <MFCC> <nullD> <diagC>
+ <StreamInfo> 1 16
+ <State> 2 <NumMixes> 1   
+  <Stream> 1
+  <Mixture> 1 1.0
+    <Mean> 16
+      0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+    <Variance> 16
+      1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
+ <TransP> 3
+ 0.0 1.0 0.0 
+ 0.0 0.99 0.01 
+ 0.0 0.0 0.0
+<EndHMM>
+

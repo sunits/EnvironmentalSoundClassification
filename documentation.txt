@@ -1,0 +1,6 @@
+result plotting 
+---------------
+1. Class wise accuracy comparison using bar plots for different types of scaling function :
+	file in:/media/885C28DA5C28C532/sound_data/sounds_again/data_23_44_verified/plotBar.m
+2. 
+

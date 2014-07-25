@@ -1,8 +1,3 @@
-%Author: Sunit Sivasankaran
-
-% Code to obtain gabor a gabor dictionary. All parameters including the phase, frequency and scale are hardcoded. 
-
-
 function[frequency,scale,dict]=gabor_atoms(atom_length)
 
 phi=30*pi/180;
